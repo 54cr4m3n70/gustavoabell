@@ -7,6 +7,6 @@ Meu nome é Gustavo, eu faço Bacharel em Ciência da Computação e sigo minha 
 - 👨🏻‍💻 Front-end / Back-end.
 - 🔍   Atualmente aberto a novas oportunidades.
 - ⚙️  HTML5, CSS3, Java,
-- 📰 Estudando JavaScript
+- 📰 Estudando JavaScript, Java
 - 📡 Neste momento busco aprender cada dias mais.
 - 💬 Sobre mim: Aficionado por games, e novos aprendizados!
