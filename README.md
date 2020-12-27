@@ -20,3 +20,8 @@ Meu nome é Gustavo, eu faço Bacharel em Ciência da Computação e sigo minha 
 - 📰 Estudando JavaScript, Java
 - 📡 Neste momento busco aprender cada dias mais.
 - 💬 Sobre mim: Aficionado por games, e novos aprendizados!
+<h4>Redes Sociais<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png" width=25px height=25px></h4>
+<div><a href="https://https://www.linkedin.com/in/gustavoabel10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/gustavoabell_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/gustavoabell10"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>
