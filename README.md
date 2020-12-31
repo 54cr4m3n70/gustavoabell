@@ -11,7 +11,8 @@ I have been in the development world since 2017 where I started my studies with 
 
 Github: https://github.com/gustavoabell
 Twitter: https://twitter.com/gustavoabeell
-Meu nome é Gustavo, eu faço Bacharel em Ciência da Computação e sigo minha caminhada para ficar cada dia mais próximo do Full Stack!
+
+Meu nome é Gustavo tenho 19 anos e eu faço Bacharel em Ciência da Computação e sigo minha caminhada para ficar cada dia mais próximo do Full Stack!
 <h4>Tecnologias<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width=25px height=25px></h4>
 <div><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
