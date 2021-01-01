@@ -7,7 +7,7 @@
 [![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gustavoabell10)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:gustavoabel.contato@gmail.com)
 
-- :computer: Web Developer ( Front-end )
+- :computer: Full Stack Developer 
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: Java, Javascript, Nodejs, Reactjs, Typescript, Git, Gitbash.
 - :rocket: **My goals**: live from programming evolving every day always aiming for the full stack and also using and helping people to program.
