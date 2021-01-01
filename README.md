@@ -9,9 +9,9 @@
 
 - :computer: Web Developer ( Front-end )
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: **Currently mastering**: Javascript, Vuejs, Nodejs, Design Patterns, Clean Code.
-- :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
-- :speech_balloon: We can talk about anything on my discord: **Abantes#2152**
+- :zap: **Currently mastering**: Java, Javascript, Nodejs, Reactjs, Typescript, Git, Gitbash.
+- :rocket: **My goals**: live from programming evolving every day always aiming for the full stack and also using and helping people to program.
+- :speech_balloon: We can talk about anything on my discord: **✪ snaak#4890**
 
 ### Languages and Tools
 
