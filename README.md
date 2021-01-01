@@ -6,8 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavoabeell)](https://twitter.com/gustavoabeell)
 [![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gustavoabell10)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:gustavoabel.contato@gmail.com)
-- ### Self-taught Software Developer, Entrepreneur and Computer Technician.
-I have been in the development world since 2017 where I started my studies with HTML and CSS and I always try to improve my knowledge.
+- ### Software Developer, Entrepreneur and Computer Technician.
+I've been in the development world since 2017, where I started my studies with HTML and CSS and I always try to improve my knowledge.
 - :computer: Full Stack Developer 
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: Java, Javascript, Nodejs, Reactjs, Typescript, Git, Gitbash.
