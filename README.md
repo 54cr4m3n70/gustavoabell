@@ -1,6 +1,6 @@
 # Gustavo Abel
 
-[![Portfólio Badge](https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/gustavoabell/1e2a3f2371fc662b70e8f163d25695c8a)
+[![Portfólio Badge](https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/gustavoabell/1e2a3f2371fc662b70e8f163d25695c8)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabel10/)](https://www.linkedin.com/in/gustavoabel10/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoabell_/?hl=pt-br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavoabeell)](https://twitter.com/gustavoabeell)
