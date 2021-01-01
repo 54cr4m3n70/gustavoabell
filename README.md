@@ -26,6 +26,6 @@ I've been in the development world since 2017, where I started my studies with H
   <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30" />
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical2" alt="gustavoabell" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabell&layout=compact&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical2" alt="Top langs" />
 </p>
