@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ### Hi, I'm Gustavo! :D
 
 [![Portfólio Badge](https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/gustavoabell/1e2a3f2371fc662b70e8f163d25695c8)
