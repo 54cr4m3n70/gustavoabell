@@ -1,36 +1,29 @@
-## 👨🏻‍💻Gustavo Abel
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/gustavoabell)](https://github.com/gustavoabell)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabel10//)](https://www.linkedin.com/in/gustavoabel10//)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:gustavoabel.contato@gmail.com)
-### Self-taught Software Developer, Entrepreneur and Computer Technician.
+# Gustavo Abel
 
-I have been in the development world since 2017 where I started my studies with HTML and CSS and I always try to improve my knowledge.
+[![Portfólio Badge](https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/roger3g/94eb77e77ed3edbe4e6ed02b50fe5a12)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabel10/)](https://www.linkedin.com/in/gustavoabel10/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoabell_/?hl=pt-br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavoabeell)](https://twitter.com/gustavoabeell)
+[![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gustavoabell10)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:gustavoabel.contato@gmail.com)
 
-- Main technologies: Java, Javascript,, Node.js, React, React Native, SQL,
-- Currently focusing on: Java, JavaScript, Node, React
+- :computer: Web Developer ( Front-end )
+- :eyes: Looking for an opportunity as an intern in the development area.
+- :zap: **Currently mastering**: Javascript, Vuejs, Nodejs, Design Patterns, Clean Code.
+- :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
+- :speech_balloon: We can talk about anything on my discord: **Abantes#2152**
 
-Github: https://github.com/gustavoabell
-Twitter: https://twitter.com/gustavoabeell
+### Languages and Tools
 
-Meu nome é Gustavo tenho 19 anos e eu faço Bacharel em Ciência da Computação e sigo minha caminhada para ficar cada dia mais próximo do Full Stack!
-<h4>Tecnologias<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width=25px height=25px></h4>
-<div><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
+   <img src="file:///C:/Users/Gustavo%20Abel/Desktop/devicon-master/devicon-master/icons/java/java-original.svg" alt="npm" width="30" height="30"/>
 
-</div>
+</p>
 
-
-
-- 👨🏻‍💻 Front-end / Back-end.
-- 🔍   Atualmente aberto a novas oportunidades.
-- ⚙️  HTML5, CSS3, Java,
-- 📰 Estudando JavaScript, Java
-- 📡 Neste momento busco aprender cada dias mais.
-- 💬 Sobre mim: Aficionado por games, e novos aprendizados!
-<h4>Redes Sociais<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png" width=25px height=25px></h4>
-<div><a href="https://www.linkedin.com/in/gustavoabel10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/gustavoabell_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/gustavoabell10"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=roger3g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
