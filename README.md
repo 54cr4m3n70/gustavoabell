@@ -24,10 +24,7 @@
   <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
    
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabell&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
-### 🛠️ GitHub Stats
-
-<a href="https://github.com/gustavoabell?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan18&theme=merko" /></a>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/?username=gustavoabell&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
