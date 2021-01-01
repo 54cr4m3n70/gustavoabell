@@ -12,7 +12,7 @@
 I've been in the development world since 2017, where I started my studies with HTML and CSS and I always try to improve my knowledge.
 - :computer: Full Stack Developer 
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: **Currently mastering**: Java, Javascript, Nodejs, Reactjs, Typescript, Git, Gitbash.
+- :zap: **Currently mastering**: Java, Javascript, Nodejs, Reactjs, Typescript, Git.
 - :rocket: **My goals**: live from programming evolving every day always aiming for the full stack and also using and helping people to program.
 - :speech_balloon: We can talk about anything on my discord: **✪ snaak#4890**
 
