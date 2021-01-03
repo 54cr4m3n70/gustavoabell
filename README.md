@@ -19,8 +19,14 @@ I've been in the development world since 2017, where I started my studies with H
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
- 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30" />
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" alt="gustavoabell" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabell&layout=compact&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" alt="Top langs" />
