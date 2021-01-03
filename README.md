@@ -34,3 +34,7 @@ I've been in the development world since 2017, where I started my studies with H
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabell&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
+
+<p align="center">
+    <a href="https://github.com/gustavoabell" target="_blank"><img alt="gustavoabell" src="https://badges.pufler.dev/visits/gustavoabell/gustavoabell?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
