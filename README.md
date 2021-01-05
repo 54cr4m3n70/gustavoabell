@@ -28,7 +28,7 @@ I've been in the development world since 2017, where I started my studies with H
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="react" width="30" height="30" />
-  <img src="C:\Users\Gustavo Abel\AppData\Local\Postman\Postman.exe" alt="postman" width="30" height="30" />
+  <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman" width="30" height="30" />
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
